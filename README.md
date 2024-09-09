@@ -1,6 +1,8 @@
 Customer Segment Analysis
+
 Overview
-This project focuses on Customer Segmentation using various clustering techniques, particularly KMeans Clustering, to divide a dataset into distinct customer groups. The aim of this project is to identify meaningful customer segments that can help businesses tailor marketing strategies, improve customer satisfaction, and optimize resource allocation.
+This project focuses on Customer Segmentation using various clustering techniques, particularly KMeans Clustering, to divide a dataset into distinct customer groups. 
+The aim of this project is to identify meaningful customer segments that can help businesses tailor marketing strategies, improve customer satisfaction, and optimize resource allocation.
 
 Project Structure
 The project is divided into several stages:
@@ -10,6 +12,8 @@ Data Preprocessing: Handling missing values, encoding categorical variables, sca
 Principal Component Analysis (PCA): Reducing the dimensionality of the dataset to better visualize clusters.
 Clustering (KMeans): Applying KMeans clustering to group customers.
 Evaluation & Visualization: Evaluating the quality of clusters and visualizing the results.
+Model Validation
+Deployment
 
 Methodology
 1. Data Preprocessing
